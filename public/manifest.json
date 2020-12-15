@@ -44,7 +44,7 @@
     "name": "Budget Tracker",
     "short_name": "My Budget",
     "display": "standalone",
-    "start_url": ".",
+    "start_url": "/",
     "description": "Check your budget where ever you go!",
     "background_color": "#01579b",
     "theme_color": "#ffffff"
